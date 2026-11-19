@@ -3,7 +3,7 @@
 Compiled inference for [Looped-DiT](https://github.com/OpenSenseNova/Looped-DiT), with a loop-depth sampler and benchmark.
 About 10x faster than the official sampler at one image at a time, with the same images.
 
-Write-up: [What extra loops buy a looped image model](https://eishanlawrence.com/blog/looped-image-model).
+Write-up: [What extra loops buy a looped image model](https://www.eishanlawrence.com/blog/looped-image-model).
 
 ## Why
 
